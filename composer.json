@@ -1,5 +1,5 @@
 {
-    "name": "luannguyen-vietlink/Zipper",
+    "name": "luannguyen-vietlink/zipper",
     "type": "library",
     "description": "This is a kolf from https://github.com/Chumper/Zipper to support Laravel 6",
     "keywords": ["laravel", "ZIP", "Archive"],
