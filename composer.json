@@ -1,9 +1,9 @@
 {
-    "name": "chumper/zipper",
+    "name": "luannguyen-vietlink/Zipper",
     "type": "library",
-    "description": "This is a little neat helper for the ZipArchive methods with handy functions",
+    "description": "This is a kolf from https://github.com/Chumper/Zipper to support Laravel 6",
     "keywords": ["laravel", "ZIP", "Archive"],
-    "homepage": "http://github.com/Chumper/zipper",
+    "homepage": "https://github.com/luannguyen-vietlink/Zipper",
     "license": "Apache2",
     "authors": [
         {
